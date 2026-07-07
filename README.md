@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Linear%20Regression-orange?logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 🏡 California House Price Predictor
 
 A Machine Learning web application that predicts California house prices using **Linear Regression** and the **California Housing Dataset** from Scikit-learn.
@@ -147,8 +151,31 @@ streamlit run app.py
 
 ---
 
+## 🎯 Key Learning Outcomes
+
+- Implemented a Linear Regression model using Scikit-learn.
+- Split data into training and testing datasets.
+- Evaluated model performance using RMSE and R² Score.
+- Saved and loaded trained models using Joblib.
+- Built an interactive web interface using Streamlit.
+- Managed the project using Git and GitHub.
+
+---
+
+## 🚀 Future Improvements
+
+- Add Random Forest Regression for comparison.
+- Compare multiple regression algorithms.
+- Improve the user interface.
+- Deploy the application online.
+- Add feature importance visualizations.
+
+---
+
 ## 👨‍💻 Author
 
-Aryan Fulari
+**Aryan Fulari**
 
-Learning Machine Learning and building end-to-end projects using Python, Scikit-learn and Streamlit.
+Second-year Information Technology student passionate about Machine Learning, AI, and software development.
+
+GitHub: https://github.com/aryanfulari
