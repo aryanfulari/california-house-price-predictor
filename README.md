@@ -4,6 +4,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 # 🏡 California House Price Predictor
 
+## 🌐 Live Demo
+
+🔗 https://california-house-price-predictor-aryanfulari.streamlit.app
+
+
 A Machine Learning web application that predicts California house prices using **Linear Regression** and the **California Housing Dataset** from Scikit-learn.
 
 The application provides an interactive web interface built with **Streamlit**, allowing users to enter housing features and instantly receive a predicted house price.
