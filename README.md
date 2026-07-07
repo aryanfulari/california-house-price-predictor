@@ -2,7 +2,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Linear%20Regression-orange?logo=scikitlearn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
-# 🏡 California House Price Predictor
+🏡 California House Price Predictor using Linear Regression
 
 ## 🌐 Live Demo
 
