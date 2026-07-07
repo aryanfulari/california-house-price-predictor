@@ -99,7 +99,7 @@ HousePricePredictionLR/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/aryanfulari/california-house-price-predictor
 ```
 
 Move into the project folder:
@@ -178,4 +178,4 @@ streamlit run app.py
 
 Second-year Information Technology student passionate about Machine Learning, AI, and software development.
 
-GitHub: https://github.com/aryanfulari
+Learning Machine Learning and building end-to-end projects using Python, Scikit-learn and Streamlit.
