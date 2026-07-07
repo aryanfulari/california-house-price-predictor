@@ -178,4 +178,3 @@ streamlit run app.py
 
 Second-year Information Technology student passionate about Machine Learning, AI, and software development.
 
-Learning Machine Learning and building end-to-end projects using Python, Scikit-learn and Streamlit.
